@@ -1,8 +1,8 @@
-package nl.han.ica.oose.dea;
+package nl.han.aim.oose.dea;
 
-import nl.han.ica.oose.dea.services.ConsolePrinterService;
-import nl.han.ica.oose.dea.services.GitHubService;
-import nl.han.ica.oose.dea.services.JsonPlaceholderService;
+import nl.han.aim.oose.dea.services.JsonPlaceholderService;
+import nl.han.aim.oose.dea.services.ConsolePrinterService;
+import nl.han.aim.oose.dea.services.GitHubService;
 
 import java.util.Scanner;
 

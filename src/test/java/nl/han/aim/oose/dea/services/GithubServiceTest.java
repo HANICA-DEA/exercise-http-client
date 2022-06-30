@@ -1,4 +1,4 @@
-package nl.han.ica.oose.dea.services;
+package nl.han.aim.oose.dea.services;
 
 
 import org.junit.jupiter.api.Assertions;
@@ -14,11 +14,10 @@ class GithubServiceTest {
     @BeforeEach
     void setup() {
         this.githubService = new GitHubService();
-
     }
 
     @Test
-    void getIndexHtmlReturnsTheIndexHtml() {
+    void getIndexHtml_ReturnsTheIndexHtml() {
         // Arrange
 
         // Act
@@ -29,7 +28,7 @@ class GithubServiceTest {
     }
 
     @Test
-    void getReadmeReturnsTheCorrectReadme() {
+    void getReadme_ReturnsTheCorrectReadme() {
         // Arrange
 
         // Act

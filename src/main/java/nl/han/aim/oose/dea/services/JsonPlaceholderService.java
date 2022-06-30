@@ -1,7 +1,7 @@
-package nl.han.ica.oose.dea.services;
+package nl.han.aim.oose.dea.services;
 
-import nl.han.ica.oose.dea.services.dtos.TodoDto;
-import nl.han.ica.oose.dea.services.mappers.TodoMapper;
+import nl.han.aim.oose.dea.services.dtos.TodoDto;
+import nl.han.aim.oose.dea.services.mappers.TodoMapper;
 
 import java.net.URI;
 import java.net.http.HttpClient;
