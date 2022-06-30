@@ -1,4 +1,4 @@
-package nl.han.ica.oose.dea.services;
+package nl.han.aim.oose.dea.services;
 
 public class GitHubService {
 

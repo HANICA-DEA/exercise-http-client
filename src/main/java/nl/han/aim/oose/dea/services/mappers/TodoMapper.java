@@ -1,7 +1,7 @@
-package nl.han.ica.oose.dea.services.mappers;
+package nl.han.aim.oose.dea.services.mappers;
 
 import com.google.gson.Gson;
-import nl.han.ica.oose.dea.services.dtos.TodoDto;
+import nl.han.aim.oose.dea.services.dtos.TodoDto;
 
 public class TodoMapper {
 

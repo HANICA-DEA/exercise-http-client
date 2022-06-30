@@ -1,4 +1,4 @@
-package nl.han.ica.oose.dea.services.dtos;
+package nl.han.aim.oose.dea.services.dtos;
 
 public class TodoDto {
     private int userId;
